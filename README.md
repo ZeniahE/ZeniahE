@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning web and app development
 - 🌱 I’m currently learning UX/UI, HTML5, CSS and swift
 - 💞️ I’m looking to collaborate on any program that uses Java, Javascript, python, or HTML & CSS
-- 📫 How to reach me: you can always email me at mayazeniah@gmail.com, I don't know if GitHub has DMs or not bc I'm new here.
+- 📫 How to reach me: you can always email me at mayazeniah@gmail.com, or I don't know if GitHub has DMs or not bc I'm new here
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I just got certified in Java and Python!!
 
